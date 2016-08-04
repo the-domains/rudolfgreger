@@ -11,6 +11,10 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.32996589224785566
-name: rudolfgreger
-title: die L.E.D.
+author:
+  name: rudolf greger
+  email: greger@designthinkingtank.at
+  url: designthinkingtank.at
+name: die L.E.D.
+title: 'rudolf greger über design, management und gesellschaft'
 description: 'rudolf greger über design, management & society'
